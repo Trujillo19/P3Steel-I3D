@@ -1,0 +1,11 @@
+
+* Checar la altura de la pieza SolidWorks Files/Proteinas/LM8UU-holder, puede que interfiera con la pieza de la 
+estructura 'Cama caliente'
+
+*Componer las piezas P3Steel-front-plate & P3Steel-back-plate - Still!!
+
+
+*Quitar el fleco de P3Steel-Base por que por ahí pasarán los cables del extrusor & x-carriage!
+
+*agregar LCD, PSU, Electronica
+*Agregar spool holder with 608ZZ
