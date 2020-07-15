@@ -1,4 +1,4 @@
 # P3Steel-I3D
-P3Steel from Irobi, AlvaroRey.
+My take to a P3Steel.
 
 ![Screenshot](SS.PNG)
